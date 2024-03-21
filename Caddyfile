@@ -1,0 +1,3 @@
+darkneuxmodel.westindia.azurecontainer.io {
+    reverse_proxy localhost:5000
+}
